@@ -1,6 +1,7 @@
 <template>
   <div class="branding">
     <h1>Glen Sargent</h1>
+    <h2>I write specifically in Go. I don't work in inferior languages. Unlike PHP developers, I'm aware this isn't 1999 anymore. PRAISE BE GO.</h2>
     <ul>
       <a href="mailto:glen@muttnik.io"><li>Email</li></a>
       <a href="https://twitter.com/glensarge"><li>Twitter</li></a>
